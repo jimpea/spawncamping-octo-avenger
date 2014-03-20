@@ -1,4 +1,5 @@
 spawncamping-octo-avenger
 =========================
 
-Experimental
+Learning how to use Node.js and Git. Not interesting!
+
