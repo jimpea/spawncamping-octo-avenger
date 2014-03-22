@@ -10,5 +10,10 @@ Learning how to use Node.js and Git. Not interesting! Here is a quick cheat shee
 - `git diff` - list unstaged changes. On my box gets me into vim (help!). Type 'q' to exit this monstrosity.
 - `git diff --cached` - list staged changed
 
-it
+Working With Remotes
+--------------------
+
+- `git remote` - shortname of the remote
+- `git remote -v` - full name of the remote
+
 
